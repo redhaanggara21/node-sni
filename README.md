@@ -15,6 +15,10 @@
 ```bash
   npm run start
 ```
+- start test 
+```bash
+  npm run test
+```
 
 ### Env Setup
 - https://railway.app/dashboard
