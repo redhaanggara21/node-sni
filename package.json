@@ -4,6 +4,7 @@
   "description": "rest-api-mongo-jest-swagger",
   "main": "index.js",
   "scripts": {
+    "start:dev": "nodemon src/index.ts",
     "start": "npx tsc -w",
     "dev": "npx nodemon",
     "build": "tsc",
