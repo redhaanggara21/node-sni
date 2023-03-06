@@ -15,6 +15,14 @@
 ```bash
   npm run start
 ```
+- start test 
+```bash
+  npm run test
+```
+- vercel setup
+```
+  `npm run vercel-build` or `npm run build` or `npm run start:dev`
+```
 
 ### Env Setup
 - https://railway.app/dashboard
